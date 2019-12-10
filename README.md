@@ -7,5 +7,5 @@ Your objective is to build a [Bubble Plot](https://en.wikipedia.org/wiki/Bubble_
 * Total Number of Rides Per City
 * Total Number of Drivers Per City
 * City Type (Urban, Suburban, Rural)
-![1-pie](Pyber/pie.png)
+![pie](Pyber/pie.png)
 

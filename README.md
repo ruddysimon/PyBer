@@ -8,5 +8,17 @@ Your objective is to build a [Bubble Plot](https://en.wikipedia.org/wiki/Bubble_
 * Total Number of Drivers Per City
 * City Type (Urban, Suburban, Rural)
 
+In addition, you will be expected to produce the following three pie charts:
+* % of Total Fares by City Type
+
 ![1-Pie](Pyber/Pie.png)
+
+* % of Total Rides by City Type
+
+![2-Pie](Pyber/Pie1.png]
+
+* % of Total Drivers by City Type
+
+![3-Pie](Pyber/Pie2.png)
+
 
